@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Marko One';
+  font-weight: 400;
+  src: url('http://themes.googleusercontent.com/static/fonts/markoone/v3/H7XdNJTQdOeYNWDBnYKBH6CWcynf_cDxXwCLxiixG1c.ttf') format('truetype');
+}
+
+.article {
+  font-family: 'Marko One';
+  font-size: 0.9rem;
+  color: #111010;
+}
+
+.article.title {
+  font-size: 1.2rem;
+  color: #87261d;
+  text-align: center;
+  margin: 3px 2px 25px 2px;
+}
+
+.article.text {
+  font-size: 0.9rem;
+}
+
+.article.p {
+  font-style: italic;
+  margin: 8px 0px 8px 0px;
+}

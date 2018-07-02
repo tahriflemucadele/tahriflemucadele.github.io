@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-image: url('../../images/bg.png');
+}
+
+#banner {
+  margin: 0px auto;
+  margin-top: 4%;
+  text-align: center;
+}
+
+#wrapper {
+  width: 526px;
+  height: auto;
+  background: #c4902f;
+  margin: 0px auto;
+  padding: 100px 100px 100px 100px;
+}
