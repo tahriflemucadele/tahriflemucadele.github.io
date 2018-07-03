@@ -1,11 +1,13 @@
 @font-face {
   font-family: 'Marko One';
-  font-weight: 400;
-  src: url('http://themes.googleusercontent.com/static/fonts/markoone/v3/H7XdNJTQdOeYNWDBnYKBH6CWcynf_cDxXwCLxiixG1c.ttf') format('truetype');
+  src: url('../fonts/markoone-regular-webfont.woff2') format('woff2'),
+       url('../fonts/markoone-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .article {
-  font-family: 'Marko One';
+  font-family: 'Marko One', sans-serif;
   font-size: 0.9rem;
   color: #111010;
 }
